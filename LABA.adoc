@@ -1,3 +1,5 @@
 Задание 1
 
  Рисунков нет
+
+image::https://github.com/ke13khomenko/prj/blob/master/вверх.jpg[]
